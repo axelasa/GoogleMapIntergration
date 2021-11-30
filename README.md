@@ -11,3 +11,5 @@ Below Are Photos to show the above description
 ![WhatsApp Image 2021-11-30 at 16 16 37 (1)](https://user-images.githubusercontent.com/30687283/144054504-60b28c53-d0c8-42ef-9aa3-679b5e861fae.jpeg)
 
 ![WhatsApp Image 2021-11-30 at 16 16 37](https://user-images.githubusercontent.com/30687283/144054537-8aaa6566-6dfe-4684-9f57-7674dbf9cbab.jpeg)
+
+as you can see the markes that are close together get to be clustered, and the more the user zooms into the maps they get disintergrated into individual markers till they are all left as markers and not clusters.
